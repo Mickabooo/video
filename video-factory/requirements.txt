@@ -1,0 +1,3 @@
+# Optional: speech transcription, which captions depend on.
+# Everything else needs only Python 3.9+ and ffmpeg.
+faster-whisper>=1.0
